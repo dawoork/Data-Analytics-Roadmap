@@ -275,18 +275,23 @@ Este roadmap es solo el comienzo de un viaje emocionante lleno de infinitas posi
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## 👋 Hola, mi nombre es Leandro Araque.
-### Data Analyst - Data Science
+## 👋 Hola, mi nombre es Leandro araque.
+
+### Data Analyst -  Data Scientist
+
+[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
+[![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
+[![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@Dawoork?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
-[![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
+[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://twitch.com/dawoork)
+[![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lean_dawoork?style=social)](https://twitter.com/lean_dawoork)
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. **[@dawoork](https://dawoork.com)**.
+Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. redes sociales como **[@dawoork](https://dawoork.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/GitHub-Dawoork-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dawoork)
+[![Web](https://img.shields.io/badge/GitHub-leanaraque-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/leanaraque)
